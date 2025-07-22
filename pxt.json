@@ -8,8 +8,10 @@
     "files": [
         "main.blocks",
         "main.ts",
+        "tutorial.md",
         "README.md"
     ],
+    "tutorial": "tutorial.md",
     "testFiles": [
         "test.ts"
     ],
@@ -20,4 +22,6 @@
     "supportedTargets": [
         "minecraft"
     ]
+    ,
+
 }
