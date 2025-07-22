@@ -1,4 +1,6 @@
-# Robot Labyrinthe 🌾
+
+# Robot Labyrinthe
+
 
 Bienvenue ! Dans ce tutoriel, tu vas apprendre à utiliser ton agent pour labourer et semer un champ.
 
